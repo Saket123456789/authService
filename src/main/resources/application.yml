@@ -6,7 +6,7 @@ spring:
   datasource:
     url: jdbc:postgresql://postgres.railway.internal:5432/Auth
     username: postgres
-    password: Saket
+    password: TVsWFkLwetWUWZCTtRLSigWiFfOCstxZ
     driver-class-name: org.postgresql.Driver
 
   jpa:
