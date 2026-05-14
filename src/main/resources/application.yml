@@ -6,8 +6,9 @@ spring:
       url: jdbc:postgresql://postgres.railway.internal:5432/Auth
       username: postgres
       password: root
-
       
+
+
 
     jpa:
       hibernate:
