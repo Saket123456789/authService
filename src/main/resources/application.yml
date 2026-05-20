@@ -4,9 +4,9 @@ spring:
 
   # Move these out of the 'application' block
   datasource:
-    url: jdbc:postgresql://postgres.railway.internal:5432/railway
+    url: jdbc:postgresql://localhost:5432/Auth
     username: postgres
-    password: PrNgbgUHYOMcpIpowEpMlcVfEGwHWFbE
+    password: root
     driver-class-name: org.postgresql.Driver
 
   jpa:
